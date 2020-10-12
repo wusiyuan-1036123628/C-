@@ -1,0 +1,7 @@
+E:\C#\计算机升级\Sjisuan\Sjisuan\bin\Debug\Sjisuan.exe.config
+E:\C#\计算机升级\Sjisuan\Sjisuan\bin\Debug\Sjisuan.exe
+E:\C#\计算机升级\Sjisuan\Sjisuan\bin\Debug\Sjisuan.pdb
+E:\C#\计算机升级\Sjisuan\Sjisuan\obj\Debug\Sjisuan.csprojAssemblyReference.cache
+E:\C#\计算机升级\Sjisuan\Sjisuan\obj\Debug\Sjisuan.csproj.CoreCompileInputs.cache
+E:\C#\计算机升级\Sjisuan\Sjisuan\obj\Debug\Sjisuan.exe
+E:\C#\计算机升级\Sjisuan\Sjisuan\obj\Debug\Sjisuan.pdb
